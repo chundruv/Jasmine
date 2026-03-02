@@ -33,7 +33,7 @@ public class AddGenotypes {
 	 */
 	static String[] newFieldNames = {"GT", "SM", "CN", "BC", "PE", "IS", "OT", "DV", "DR"};
 	static String[] newFieldNums = {"1", "1", "1", "1", "2", "1", "1", "1", "1"};
-	static String[] newFieldTypes = {"String", "Float, "Integer", "Integer", "Integer", "Integer", "String", "String", "String", "String"};
+	static String[] newFieldTypes = {"String", "Float", "Integer", "Integer", "Integer", "Integer", "String", "String", "String", "String"};
 	static String[] newFieldDescs = new String[] {
 			"The genotype of the variant",
 			"Linear copy ratio of the segment mean",
